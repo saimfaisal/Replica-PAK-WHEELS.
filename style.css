@@ -1,0 +1,232 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 84%;
+  margin-left: 155px;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 450px;
+  color: white;
+}
+h1 {
+  font-size: 53px;
+}
+.hl {
+  border-radius: 10px;
+}
+.box {
+  height: 7vh;
+  width: 63vw;
+  background: white;
+  margin-top: 2vh;
+  margin-left: 250px;
+  margin-bottom: 5vh;
+  border: 2px solid white;
+  border-radius: 5px;
+  display: flex;
+}
+.input input {
+  height: 6vh;
+  padding-left: 1vw;
+  border: transparent;
+  font-size: 20px;
+}
+.input2 input {
+  height: 7vh;
+  padding-left: 1vw;
+  border: transparent;
+  padding-left: 20px;
+  width: 18vw;
+  font-size: 20px;
+}
+.input2 {
+  padding-left: 100px;
+}
+.input3 input {
+  height: 6vh;
+  padding-left: 1vw;
+  border: transparent;
+  font-size: 20px;
+}
+.search button {
+  width: 5vw;
+  height: 7vh;
+  margin-left: 104px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
+.filter button {
+  width: 20vw;
+  margin-left: 40vw;
+  background-color: transparent;
+  color: white;
+  border: 1px solid;
+  border-color: white;
+}
+.sellcar{
+  height: 100vh;
+  width: 100%;
+  background: white;
+}
+.msg{
+  display: flex;
+  justify-content: center;
+  padding-top: 8vh;
+}
+  .search{
+    background-image: linear-gradient(black,rgb(32, 32, 153));
+  }
+  .post{
+    padding-left: 15vw;
+    padding-top: 10vh;
+    color: rgb(39, 39, 119);
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .free{
+    padding-left:29vw ;
+    padding-top: 2vh;
+    display: flex;
+   
+  }
+  .free pre{
+    font-size: 18px;
+    font-family: sans-serif;
+    
+  }
+  .sale{
+    padding-left: 9vw;
+  }
+  .free button{
+    width: 12vw;
+    height: 6vh;
+    background-color: maroon;
+    margin-top: 4vh;
+    border-radius: 8px;
+  }
+  .free .sale button{
+    width: 12vw;
+    background-color: rgb(52, 141, 196);
+    margin-top: 4vh;
+  }
+  .add img{
+    margin-left: 30vw;
+  }
+  .browsecar{
+    background-color: lightcyan
+  }
+  .manage{
+    background-color: #f2f3f3;
+  }
+  .usedcar{
+    background-color: white;
+
+  }
+  .newcar{
+    background: #f2f3f3;
+  }
+  .comparisons{
+    background-color: white;
+  }
+  .carbox{
+    width: 55vw;
+    height: 50vh;
+    border: 1px solid rgb(180, 179, 179);
+    display: flex;
+
+  }
+  .carvs{
+    display: flex;
+  }
+  .vs{
+    padding-top: 10vh;
+    height: 2vh;
+    width: 3vw;
+  }
+  .pro{
+    display: flex;
+    flex-direction: column;
+  }
+  .sport{
+    display: flex;
+    flex-direction: column;
+  }
+  .vsbutton{
+    width: 18vw;
+    height: 30vh;
+    
+    margin-left: 3vw;
+    margin-top: 3vh;
+  }
+  .toyota{
+    display: flex;
+    justify-content: center;
+  }
+  .kia{
+    margin-top: 2vh;
+    margin-left: 4vw;
+  }
+  .campare button{
+    width: 22vw;
+    height: 4vh;
+    color: black;
+    background-color: transparent;
+
+  }
+  .store{
+    background-color: #f2f3f3;
+  }
+.suzuki:hover{
+  color: black  ;
+}
+.bikes{
+  background-color: #f2f3f3;
+}
+.popular{
+  background-color: white;
+}
+.byd{
+  background-color: white;
+}
+.bydimg img{
+  width: 73vw;
+  height: 20vh;
+}
+.review{
+  background-color: #f2f3f3;
+}
+.getapp{
+  background-color:white ;
+}
+.email{
+  
+  width: 17vw;
+  height: 5vh;
+  display: flex;
+}
+.face{
+  margin-top: 5vh;
+  color: gray;
+}
+.ap{
+  margin-top: 5vh;
+  display: flex;
+}
+.last{
+  color: gray;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20vw;
+}
